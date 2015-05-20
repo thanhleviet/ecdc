@@ -1,0 +1,154 @@
+Country,Year,Antibiotic_Group,S,I,R,TotalN,pS,pI,pR
+Austria,2005,Multiple drug resistance,1,87,1.1 %,Austria,2006,Multiple drug resistance,9
+429,2.1 %,Austria,2007,Multiple drug resistance,19,440,4.3 %,Austria,2008
+Multiple drug resistance,22,579,3.8 %,Austria,2009,Multiple drug resistance,15,599,2.5 %
+Austria,2010,Multiple drug resistance,13,716,1.8 %,Austria,2011,Multiple drug resistance,32
+785,4.1 %,Austria,2012,Multiple drug resistance,35,828,4.2 %,Austria,2013
+Multiple drug resistance,35,919,3.8 %,Belgium,2009,Multiple drug resistance,4,142,2.8 %
+Belgium,2010,Multiple drug resistance,1,132,0.8 %,Belgium,2011,Multiple drug resistance,29
+587,4.9 %,Belgium,2012,Multiple drug resistance,39,477,8.2 %,Belgium,2013
+Multiple drug resistance,39,555,7.0 %,Bulgaria,2005,Multiple drug resistance,7,34,20.6 %
+Bulgaria,2006,Multiple drug resistance,12,55,21.8 %,Bulgaria,2007,Multiple drug resistance,10
+29,34.5 %,Bulgaria,2008,Multiple drug resistance,21,48,43.8 %,Bulgaria,2009
+Multiple drug resistance,37,95,38.9 %,Bulgaria,2010,Multiple drug resistance,55,126,43.7 %
+Bulgaria,2011,Multiple drug resistance,55,120,45.8 %,Bulgaria,2012,Multiple drug resistance,46
+127,36.2 %,Bulgaria,2013,Multiple drug resistance,50,138,36.2 %,Croatia,2010
+Multiple drug resistance,98,278,35.3 %,Croatia,2011,Multiple drug resistance,89,292,30.5 %
+Croatia,2012,Multiple drug resistance,102,331,30.8 %,Croatia,2013,Multiple drug resistance,111
+373,29.8 %,Cyprus,2005,Multiple drug resistance,1,9,11.1 %,Cyprus,2006
+Multiple drug resistance,3,26,11.5 %,Cyprus,2007,Multiple drug resistance,4,39,10.3 %
+Cyprus,2008,Multiple drug resistance,10,62,16.1 %,Cyprus,2009,Multiple drug resistance,9
+53,17.0 %,Cyprus,2010,Multiple drug resistance,13,67,19.4 %,Cyprus,2011
+Multiple drug resistance,21,83,25.3 %,Cyprus,2012,Multiple drug resistance,7,65,10.8 %
+Cyprus,2013,Multiple drug resistance,6,68,8.8 %,Czech Republic,2005,Multiple drug resistance,81
+477,17.0 %,Czech Republic,2006,Multiple drug resistance,232,1129,20.5 %,Czech Republic,2007
+Multiple drug resistance,361,1230,29.3 %,Czech Republic,2008,Multiple drug resistance,471,1484,31.7 %
+Czech Republic,2009,Multiple drug resistance,492,1394,35.3 %,Czech Republic,2010,Multiple drug resistance,447
+1244,35.9 %,Czech Republic,2011,Multiple drug resistance,462,1283,36.0 %,Czech Republic,2012
+Multiple drug resistance,585,1399,41.8 %,Czech Republic,2013,Multiple drug resistance,494,1291,38.3 %
+Denmark,2006,Multiple drug resistance,3,401,0.7 %,Denmark,2007,Multiple drug resistance,28
+483,5.8 %,Denmark,2008,Multiple drug resistance,28,615,4.6 %,Denmark,2009
+Multiple drug resistance,41,600,6.8 %,Denmark,2010,Multiple drug resistance,30,557,5.4 %
+Denmark,2011,Multiple drug resistance,31,633,4.9 %,Denmark,2012,Multiple drug resistance,18
+577,3.1 %,Denmark,2013,Multiple drug resistance,18,519,3.5 %,Estonia,2005
+Multiple drug resistance,0,37,0.0 %,Estonia,2006,Multiple drug resistance,1,40,2.5 %
+Estonia,2007,Multiple drug resistance,0,56,0.0 %,Estonia,2008,Multiple drug resistance,1
+58,1.7 %,Estonia,2009,Multiple drug resistance,5,56,8.9 %,Estonia,2010
+Multiple drug resistance,10,63,15.9 %,Estonia,2011,Multiple drug resistance,8,42,19.0 %
+Estonia,2012,Multiple drug resistance,9,86,10.5 %,Estonia,2013,Multiple drug resistance,8
+89,9.0 %,Finland,2005,Multiple drug resistance,3,130,2.3 %,Finland,2006
+Multiple drug resistance,2,222,0.9 %,Finland,2007,Multiple drug resistance,1,263,0.4 %
+Finland,2008,Multiple drug resistance,3,280,1.1 %,Finland,2009,Multiple drug resistance,2
+341,0.6 %,Finland,2010,Multiple drug resistance,5,368,1.4 %,Finland,2011
+Multiple drug resistance,5,404,1.2 %,Finland,2012,Multiple drug resistance,1,516,0.2 %
+Finland,2013,Multiple drug resistance,2,514,0.4 %,France,2005,Multiple drug resistance,18
+824,2.2 %,France,2006,Multiple drug resistance,36,938,3.8 %,France,2007
+Multiple drug resistance,101,1149,8.8 %,France,2008,Multiple drug resistance,139,1045,13.3 %
+France,2009,Multiple drug resistance,209,1352,15.5 %,France,2010,Multiple drug resistance,226
+1527,14.8 %,France,2011,Multiple drug resistance,321,1647,19.5 %,France,2012
+Multiple drug resistance,213,1097,19.4 %,France,2013,Multiple drug resistance,439,1916,22.9 %
+Germany,2005,Multiple drug resistance,3,103,2.9 %,Germany,2006,Multiple drug resistance,7
+146,4.8 %,Germany,2007,Multiple drug resistance,5,173,2.9 %,Germany,2008
+Multiple drug resistance,17,235,7.2 %,Germany,2009,Multiple drug resistance,34,470,7.2 %
+Germany,2010,Multiple drug resistance,36,478,7.5 %,Germany,2011,Multiple drug resistance,36
+518,6.9 %,Germany,2012,Multiple drug resistance,41,663,6.2 %,Germany,2013
+Multiple drug resistance,51,742,6.9 %,Greece,2005,Multiple drug resistance,354,772,45.9 %
+Greece,2006,Multiple drug resistance,320,840,38.1 %,Greece,2007,Multiple drug resistance,419
+968,43.3 %,Greece,2008,Multiple drug resistance,539,1063,50.7 %,Greece,2009
+Multiple drug resistance,878,1625,54.0 %,Greece,2010,Multiple drug resistance,958,1668,57.4 %
+Greece,2011,Multiple drug resistance,1045,1630,64.1 %,Greece,2012,Multiple drug resistance,855
+1427,59.9 %,Greece,2013,Multiple drug resistance,646,1166,55.4 %,Hungary,2005
+Multiple drug resistance,52,282,18.4 %,Hungary,2006,Multiple drug resistance,28,272,10.3 %
+Hungary,2007,Multiple drug resistance,58,314,18.5 %,Hungary,2008,Multiple drug resistance,99
+365,27.1 %,Hungary,2009,Multiple drug resistance,102,354,28.8 %,Hungary,2010
+Multiple drug resistance,190,502,37.8 %,Hungary,2011,Multiple drug resistance,192,417,46.0 %
+Hungary,2012,Multiple drug resistance,182,485,37.5 %,Hungary,2013,Multiple drug resistance,177
+551,32.1 %,Iceland,2005,Multiple drug resistance,0,21,0.0 %,Iceland,2006
+Multiple drug resistance,0,12,0.0 %,Iceland,2007,Multiple drug resistance,0,26,0.0 %
+Iceland,2008,Multiple drug resistance,1,24,4.2 %,Iceland,2009,Multiple drug resistance,0
+26,0.0 %,Iceland,2010,Multiple drug resistance,0,24,0.0 %,Iceland,2011
+Multiple drug resistance,0,24,0.0 %,Iceland,2012,Multiple drug resistance,0,14,0.0 %
+Iceland,2013,Multiple drug resistance,0,28,0.0 %,Ireland,2005,Multiple drug resistance,0
+40,0.0 %,Ireland,2006,Multiple drug resistance,4,191,2.1 %,Ireland,2007
+Multiple drug resistance,9,230,3.9 %,Ireland,2008,Multiple drug resistance,12,299,4.0 %
+Ireland,2009,Multiple drug resistance,16,313,5.1 %,Ireland,2010,Multiple drug resistance,7
+318,2.2 %,Ireland,2011,Multiple drug resistance,10,303,3.3 %,Ireland,2012
+Multiple drug resistance,11,326,3.4 %,Ireland,2013,Multiple drug resistance,25,316,7.9 %
+Italy,2005,Multiple drug resistance,9,317,2.8 %,Italy,2006,Multiple drug resistance,52
+307,16.9 %,Italy,2007,Multiple drug resistance,62,346,17.9 %,Italy,2008
+Multiple drug resistance,62,278,22.3 %,Italy,2009,Multiple drug resistance,32,254,12.6 %
+Italy,2010,Multiple drug resistance,180,685,26.3 %,Italy,2011,Multiple drug resistance,186
+566,32.9 %,Italy,2012,Multiple drug resistance,305,758,40.2 %,Italy,2013
+Multiple drug resistance,588,1403,41.9 %,Latvia,2006,Multiple drug resistance,2,27,7.4 %
+Latvia,2007,Multiple drug resistance,2,26,7.7 %,Latvia,2008,Multiple drug resistance,13
+40,32.5 %,Latvia,2009,Multiple drug resistance,10,44,22.7 %,Latvia,2010
+Multiple drug resistance,31,63,49.2 %,Latvia,2011,Multiple drug resistance,21,63,33.3 %
+Latvia,2012,Multiple drug resistance,33,78,42.3 %,Latvia,2013,Multiple drug resistance,35
+88,39.8 %,Lithuania,2006,Multiple drug resistance,1,35,2.9 %,Lithuania,2007
+Multiple drug resistance,1,39,2.6 %,Lithuania,2008,Multiple drug resistance,9,51,17.6 %
+Lithuania,2009,Multiple drug resistance,23,66,34.8 %,Lithuania,2010,Multiple drug resistance,26
+80,32.5 %,Lithuania,2011,Multiple drug resistance,59,137,43.1 %,Lithuania,2012
+Multiple drug resistance,96,184,52.2 %,Lithuania,2013,Multiple drug resistance,48,144,33.3 %
+Luxembourg,2006,Multiple drug resistance,0,18,0.0 %,Luxembourg,2007,Multiple drug resistance,0
+51,0.0 %,Luxembourg,2008,Multiple drug resistance,2,51,3.9 %,Luxembourg,2009
+Multiple drug resistance,4,28,14.3 %,Luxembourg,2010,Multiple drug resistance,2,59,3.4 %
+Luxembourg,2011,Multiple drug resistance,13,48,27.1 %,Luxembourg,2012,Multiple drug resistance,10
+50,20.0 %,Luxembourg,2013,Multiple drug resistance,9,53,17.0 %,Malta,2005
+Multiple drug resistance,0,18,0.0 %,Malta,2006,Multiple drug resistance,0,32,0.0 %
+Malta,2007,Multiple drug resistance,0,28,0.0 %,Malta,2008,Multiple drug resistance,0
+36,0.0 %,Malta,2009,Multiple drug resistance,0,38,0.0 %,Malta,2010
+Multiple drug resistance,3,57,5.3 %,Malta,2011,Multiple drug resistance,2,52,3.8 %
+Malta,2012,Multiple drug resistance,11,57,19.3 %,Malta,2013,Multiple drug resistance,14
+69,20.3 %,Netherlands,2005,Multiple drug resistance,6,255,2.4 %,Netherlands,2006
+Multiple drug resistance,4,387,1.0 %,Netherlands,2007,Multiple drug resistance,12,412,2.9 %
+Netherlands,2008,Multiple drug resistance,17,458,3.7 %,Netherlands,2009,Multiple drug resistance,4
+380,1.1 %,Netherlands,2010,Multiple drug resistance,24,638,3.8 %,Netherlands,2011
+Multiple drug resistance,31,720,4.3 %,Netherlands,2012,Multiple drug resistance,18,667,2.7 %
+Netherlands,2013,Multiple drug resistance,14,631,2.2 %,Norway,1999,Multiple drug resistance,0
+11,0.0 %,Norway,2000,Multiple drug resistance,0,10,0.0 %,Norway,2001
+Multiple drug resistance,0,12,0.0 %,Norway,2002,Multiple drug resistance,0,21,0.0 %
+Norway,2003,Multiple drug resistance,0,38,0.0 %,Norway,2004,Multiple drug resistance,0
+37,0.0 %,Norway,2005,Multiple drug resistance,0,172,0.0 %,Norway,2006
+Multiple drug resistance,0,248,0.0 %,Norway,2007,Multiple drug resistance,0,308,0.0 %
+Norway,2008,Multiple drug resistance,2,346,0.6 %,Norway,2009,Multiple drug resistance,6
+391,1.5 %,Norway,2010,Multiple drug resistance,5,468,1.1 %,Norway,2011
+Multiple drug resistance,3,374,0.8 %,Norway,2012,Multiple drug resistance,9,593,1.5 %
+Norway,2013,Multiple drug resistance,11,616,1.8 %,Poland,2005,Multiple drug resistance,14
+53,26.4 %,Poland,2006,Multiple drug resistance,10,42,23.8 %,Poland,2007
+Multiple drug resistance,0,32,0.0 %,Poland,2008,Multiple drug resistance,4,19,21.1 %
+Poland,2009,Multiple drug resistance,20,133,15.0 %,Poland,2010,Multiple drug resistance,48
+209,23.0 %,Poland,2011,Multiple drug resistance,96,259,37.1 %,Poland,2012
+Multiple drug resistance,171,355,48.2 %,Poland,2013,Multiple drug resistance,190,365,52.1 %
+Portugal,2005,Multiple drug resistance,0,0, ,Portugal,2006,Multiple drug resistance,25
+298,8.4 %,Portugal,2007,Multiple drug resistance,24,343,7.0 %,Portugal,2008
+Multiple drug resistance,47,526,8.9 %,Portugal,2009,Multiple drug resistance,77,532,14.5 %
+Portugal,2010,Multiple drug resistance,110,567,19.4 %,Portugal,2011,Multiple drug resistance,128
+614,20.8 %,Portugal,2012,Multiple drug resistance,195,776,25.1 %,Portugal,2013
+Multiple drug resistance,199,909,21.9 %,Romania,2005,Multiple drug resistance,1,2,50.0 %
+Romania,2006,Multiple drug resistance,9,29,31.0 %,Romania,2007,Multiple drug resistance,7
+30,23.3 %,Romania,2008,Multiple drug resistance,0,3,0.0 %,Romania,2009
+Multiple drug resistance,2,17,11.8 %,Romania,2010,Multiple drug resistance,4,17,23.5 %
+Romania,2011,Multiple drug resistance,3,10,30.0 %,Romania,2012,Multiple drug resistance,41
+97,42.3 %,Romania,2013,Multiple drug resistance,90,210,42.9 %,Slovakia,2011
+Multiple drug resistance,290,465,62.4 %,Slovakia,2012,Multiple drug resistance,208,376,55.3 %
+Slovakia,2013,Multiple drug resistance,282,487,57.9 %,Slovenia,2005,Multiple drug resistance,9
+78,11.5 %,Slovenia,2006,Multiple drug resistance,22,145,15.2 %,Slovenia,2007
+Multiple drug resistance,31,170,18.2 %,Slovenia,2008,Multiple drug resistance,30,157,19.1 %
+Slovenia,2009,Multiple drug resistance,41,189,21.7 %,Slovenia,2010,Multiple drug resistance,35
+196,17.9 %,Slovenia,2011,Multiple drug resistance,46,232,19.8 %,Slovenia,2012
+Multiple drug resistance,44,254,17.3 %,Slovenia,2013,Multiple drug resistance,39,245,15.9 %
+Spain,2005,Multiple drug resistance,2,56,3.6 %,Spain,2006,Multiple drug resistance,6
+561,1.1 %,Spain,2007,Multiple drug resistance,33,612,5.4 %,Spain,2008
+Multiple drug resistance,27,638,4.2 %,Spain,2009,Multiple drug resistance,30,627,4.8 %
+Spain,2010,Multiple drug resistance,55,1161,4.7 %,Spain,2011,Multiple drug resistance,95
+1145,8.3 %,Spain,2012,Multiple drug resistance,102,1150,8.9 %,Spain,2013
+Multiple drug resistance,139,1241,11.2 %,Sweden,1999,Multiple drug resistance,0,0, 
+Sweden,2005,Multiple drug resistance,1,263,0.4 %,Sweden,2006,Multiple drug resistance,0
+558,0.0 %,Sweden,2007,Multiple drug resistance,2,644,0.3 %,Sweden,2008
+Multiple drug resistance,5,724,0.7 %,Sweden,2009,Multiple drug resistance,0,1,0.0 %
+Sweden,2012,Multiple drug resistance,0,45,0.0 %,Sweden,2013,Multiple drug resistance,21
+1235,1.7 %,United Kingdom,2005,Multiple drug resistance,16,280,5.7 %,United Kingdom,2006
+Multiple drug resistance,22,282,7.8 %,United Kingdom,2007,Multiple drug resistance,22,314,7.0 %
+United Kingdom,2008,Multiple drug resistance,12,263,4.6 %,United Kingdom,2009,Multiple drug resistance,19
+618,3.1 %,United Kingdom,2010,Multiple drug resistance,25,701,3.6 %,United Kingdom,2011
+Multiple drug resistance,19,914,2.1 %,United Kingdom,2012,Multiple drug resistance,21,913,2.3 %
